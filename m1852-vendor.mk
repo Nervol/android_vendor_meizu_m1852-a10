@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m1852/proprietary/lib/libaudioroute.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaudioroute.so \
     vendor/meizu/m1852/proprietary/lib64/libaudioroute.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaudioroute.so \
     vendor/meizu/m1852/proprietary/bin/meizu_charger:$(TARGET_COPY_OUT_SYSTEM)/bin/meizu_charger \
-    vendor/meizu/m1852/proprietary/vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.biometrics.fingerprint@2.1-service \
     vendor/meizu/m1852/proprietary/vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
     vendor/meizu/m1852/proprietary/vendor/etc/acdbdata/MTP/MTP_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_General_cal.acdb \
     vendor/meizu/m1852/proprietary/vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_Global_cal.acdb \
@@ -31,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/m1852/proprietary/vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/meizu/m1852/proprietary/vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_workspaceFile.qwsp \
     vendor/meizu/m1852/proprietary/vendor/etc/camera/camxoverridesettings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camxoverridesettings.txt \
-    vendor/meizu/m1852/proprietary/vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc \
     vendor/meizu/m1852/proprietary/vendor/etc/sensors/config/8909w_Compal_ak991x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/8909w_Compal_ak991x_0.json \
     vendor/meizu/m1852/proprietary/vendor/etc/sensors/config/8909w_Compal_bmi160_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/8909w_Compal_bmi160_0.json \
     vendor/meizu/m1852/proprietary/vendor/etc/sensors/config/8909w_Compal_ltr308_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/8909w_Compal_ltr308_0.json \
